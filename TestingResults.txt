@@ -1,0 +1,5230 @@
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: i
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: v
+
+Entities:
+Word: advanced persistent threat
+Label: THREAT_ACTOR
+Snippet: 12 
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: t
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: x
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: s
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: r
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: r
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: t
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: c
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: h
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: p
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: n
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: t
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: o
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: a
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: r
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: o
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: s
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: n
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: o
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: a
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: s
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: u
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: l
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: b
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: v
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: t
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: c
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: i
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: g
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: t
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: i
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: u
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: r
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: i
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: a
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: o
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: p
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: i
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: i
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet:  
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: d
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: r
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet:  
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: e
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: r
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: h
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet:  
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: h
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: n
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: f
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: s
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: t
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: s
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: l
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: t
+
+Entities:
+Word: keylogger
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: r
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: r
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: l
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: t
+
+Entities:
+Word: keylogger
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: a
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: n
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: r
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: t
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: n
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: advanced persistent threat
+Label: THREAT_ACTOR
+Snippet: tur
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: i
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: h
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: h
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: r
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: r
+
+Entities:
+Word: advanced persistent threat
+Label: THREAT_ACTOR
+Snippet: ond
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: w
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: f
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: h
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: 2
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet:  
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet: i
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: h
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: g
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: h
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: p
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: 0
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: chr143
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet:  
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: f
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: h
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: g
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: 0
+
+Entities:
+Word: oceanlotus
+Label: CYBER_GROUP
+Snippet: 0
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: k
+
+Entities:
+Word: sofacyfancy bear
+Label: CYBER_GROUP
+Snippet: ra
+
+Entities:
+Word: snake
+Label: RANSOMWARE
+Snippet: i
+
+Entities:
+Word: turla
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: c
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: v
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: d
+
+Entities:
+Word: advanced persistent threat
+Label: THREAT_ACTOR
+Snippet: ivi
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: d
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: h
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: f
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: advanced persistent threat
+Label: THREAT_ACTOR
+Snippet: r 2
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: r
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: advanced persistent threat
+Label: THREAT_ACTOR
+Snippet: who
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: c
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: h
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: p
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: keylogger
+Label: ATTACK
+Snippet: l
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: ad
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: p
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: c
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: b
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: c
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: fancy bear
+Label: CYBER_GROUP
+Snippet: n 
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: 0
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: a
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: i
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: p
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: g
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: f
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: 9
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: a
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet:  c
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: 2
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: t
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: a
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet:  t
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet:  w
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: p 
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: ig
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: ti
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet:  t
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: tr
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: t
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: i
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: er
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: le
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: st
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: th
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: e 
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: b
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: d 
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: i
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: ns
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: ve
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: rs
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: in
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: a
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: h 
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: j
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: in
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: s 
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: e
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: ct
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: em
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: p
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: s
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet:  c
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: s
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet:  
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet:  f
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: 1
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: h
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet:  
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: c
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: lv
+
+Entities:
+Word: charming k
+Label: CYBER_GROUP
+Snippet: an
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: d
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: q
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: r
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: r
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: a
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: se
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: w
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: t
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: t 
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: c
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: te
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: r
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: w
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet:  
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: ea
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: ly
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: n
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: w
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: u
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: rs
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: a
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: i
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet:  
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: y
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: i
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: a
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: le
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: d
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: wo
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: f
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: c
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: i
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: e
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: it
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: u
+
+Entities:
+Word: charming kittens
+Label: CYBER_GROUP
+Snippet: at
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: ll
+
+Entities:
+Word: charming kitten
+Label: CYBER_GROUP
+Snippet: co
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: d
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: s
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: o
+
+Entities:
+Word: clearsky
+Label: ORGANISATION
+Snippet: a
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: p
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: p
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: 1
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: p
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: c
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: b
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: w
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: l
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: u
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: 2
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: h
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: t
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: p
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: p
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: g
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: 0
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: b
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: 9
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: y
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: 1
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: u
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: m
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: l
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: v
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: c
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: c
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: l
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: b
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: f
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: l
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: f
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: ahnlab
+Label: ANTIVIRUS
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: g
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: d
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: g
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: d
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: d
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: v
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: m
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: b
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: p
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: f
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: 2
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: l
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: c
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: z
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: h
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: y
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: y
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: b
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: m
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: c
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: 3
+
+Entities:
+Word: keylogger
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: u
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: y
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: b
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: c
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: h
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: y
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: keylogger
+Label: ATTACK
+Snippet: h
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: l
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: m
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: f
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: p
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: b
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: k
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: c
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: keylogger
+Label: ATTACK
+Snippet: h
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: u
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: g
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: c
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: u
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: h
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: h
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: u
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: p
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: u
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: b
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: 2
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: ahnlab
+Label: ANTIVIRUS
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: ahnlab
+Label: ANTIVIRUS
+Snippet: g
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: 2
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: d
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet: m
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: l
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet: a
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: f
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: k
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: g
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: u
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: w
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: k
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet:  
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet: a
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: c
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet: e
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: c
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet: r
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet: b
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet:  
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet: a
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet:  
+
+Entities:
+Word: mcafee
+Label: ANTIVIRUS
+Snippet: 5
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: g
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: k
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: y
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: v
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: n
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: c
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: v
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: x
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: f
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: h
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: w
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: l
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: y
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: w
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: w
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: l
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: 0
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: f
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: w
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: p
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: d
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: o
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: g
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: u
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: m
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: n
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: h
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: d
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: c
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: r
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: d
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: m
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: h
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: l
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: t
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: f
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: h
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: w
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: c
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: g
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: v
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: d
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: l
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: h
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: l
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: f
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: w
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: g
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: t
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: d
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: l
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: 0
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: i
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: b
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: c
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: a
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: n
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet:  
+
+Entities:
+Word: mandiant
+Label: ORGANISATION
+Snippet: e
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: p
+
+Entities:
+Word: ghostwriter
+Label: CYBER_GROUP
+Snippet: s
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet: r
+
+Entities:
+Word: lazarus
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: obscurant
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: obscurant
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: 1
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: a
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: f
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: q
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: p
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: a
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: n
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: k
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet:  
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: s
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: e
+
+Entities:
+Word: bitdefender
+Label: ANTIVIRUS
+Snippet: r
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: d
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: u
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: r
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: advanced persistent threat
+Label: THREAT_ACTOR
+Snippet: orp
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: h
+
+Entities:
+Word: wiper
+Label: MALWARE
+Snippet: l
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: advanced persistent threat
+Label: THREAT_ACTOR
+Snippet: olv
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: g
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: v
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: l
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: c
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: l
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: w
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: c
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: h
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: p
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: l
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: h
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: f
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: f
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: p
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: e
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: b
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: l
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: 0
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: 2
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: c
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: b
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: c
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: l
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: d
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: d
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: y
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: g
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: v
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: h
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: p
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: g
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: h
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: c
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: d
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: apt28
+Label: CYBER_GROUP
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: 4
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: 1
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: u
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: u
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: h
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: 1
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: 1
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: 0
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: k
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: v
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: m
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: advanced persistent threat
+Label: THREAT_ACTOR
+Snippet:  de
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: b
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: t
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: f
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: l
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: i
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: w
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: y
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: d
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: f
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: r
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: s
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet:  
+
+Entities:
+Word: apt
+Label: THREAT_ACTOR
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: o
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: o
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: o
+
+Entities:
+Word: phishing
+Label: ATTACK
+Snippet: 1
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: t
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: g
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: n
+
+Entities:
+Word: keylogger
+Label: ATTACK
+Snippet:  
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: w
+
+Entities:
+Word: keylogger
+Label: ATTACK
+Snippet: a
+
+Entities:
+Word: backdoor
+Label: ATTACK
+Snippet: e
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet:  
+
+Entities:
+Word: keylogger
+Label: ATTACK
+Snippet: w
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet:  
+
+Entities:
+Word: spyware
+Label: MALWARE
+Snippet: o
+
