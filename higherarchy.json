@@ -1,0 +1,650 @@
+{
+    "attack_technique" : {
+        "reconnaissance" : {
+            "active scanning" : [
+                "scanning ip blocks",
+                "vulnerability scanning",
+                "wordlist scanning",
+                "network scanning",
+                "network capture"
+            ],
+            "gather victim host information" : [
+                "hardware",
+                "software",
+                "firmware",
+                "client configurations"
+            ],
+            "gather victim identity information" : [
+                "credentials",
+                "email addresses",
+                "employee names"
+            ],
+            "gather victim network information" : [
+                "domain properties",
+                "dns",
+                "network trust dependencies",
+                "network topology",
+                "ip addresses",
+                "network security applications"
+            ],
+            "gather victim org information" : [
+                "determine physical locations",
+                "buisiness relationships",
+                "identify buisiness tempo",
+                "identify roles",
+                "server addresses"
+            ],
+            "phishing" : [
+                "spear phishing",
+                "spearphishing",
+                "spearphishing service",
+                "spearphishing attachment",
+                "spearphishing link",
+                "spearphishing attachment group"
+            ],
+            "search closed sources" : [
+                "threat intel vendors",
+                "purchase technical data"
+            ],
+            "search open technical databases" : [
+                "dns",
+                "passive dns",
+                "whois",
+                "digital certificates",
+                "cdns",
+                "scan databases"
+            ],
+            "search open websites/domains" : [
+                "social media",
+                "search engines"
+            ],
+            "search victim-owned websites" : []
+        },
+        "resource development" : {
+            "acquire infastructure" : [
+                "domains",
+                "dns server",
+                "virtual private server",
+                "vpn",
+                "server",
+                "botnet",
+                "web services",
+                "web access logs"
+            ],
+            "compromise accounts" : [
+                "email account",
+                "web panel",
+                "windows accounts"
+            ]      
+        },
+        "execution" : {
+            "command and scripting interpreter" : [
+                "powershell",
+                "applescript",
+                "windows command shell",
+                "unix shell",
+                "visual basic",
+                "python",
+                "javascript",
+                "network device cli",
+                "hypervisor",
+                "scripting"
+            ],
+            "user execution" : [
+                "malicious link",
+                "malicious file",
+                "malicious image",
+                "malicious artifacts",
+                "malicious software",
+                "malicious firmware",
+                "malicious service",
+                "template file",
+                "phandoor"
+            ],
+            "native api" : [
+                "native api scripts"
+            ],
+            "interprocess communication" : [
+                "dynamic data exchange",
+                "xpc services",
+                "component object model"
+            ]
+        },
+        "persistence" : {
+            "server software component" : [
+                "web shell",
+                "iis components",
+                "transport agent",
+                "sql stored procedures",
+                "terminal services dll"
+            ],
+            "event triggered execution" : [
+                "accessibility service",
+                "accessibility features"
+            ],
+            "browser extensions" : []
+        },
+        "privilege escalation" : {
+            "process injection" : [
+                "proc memory",
+                "extra window memory injection",
+                "process hollowing",
+                "process doppelganging",
+                "vdso hijacking",
+                "portable executable injection",
+                "dynamic link library injection",
+                "code injection"
+            ],
+            "event triggered execution" : [
+                "windows management instrumentation",
+                "trap",
+                "screensaver",
+                "change default file association",
+                "powershell profile"
+            ],
+            "create or modify process" : [
+                "windows service",
+                "launch agent",
+                "launch daemon"
+            ],
+            "hijack execution flow" : [
+                "path interception",
+                "path interception by search order hijacking"
+            ]
+        },
+        "defense evasion" : {
+            "system binary proxy execution" : [
+                "control panel",
+                "cmstp",
+                "compiled html file",
+                "installutil",
+                "mshta",
+                "msiexec",
+                "odbcconf",
+                "mmc",
+                "mavinject",
+                "verclsid",
+                "rundll32"
+            ],
+            "rootkit" : [],
+            "obfuscated files or information" : [
+                "binary padding",
+                "software packing",
+                "steganography",
+                "compile after delivery",
+                "html smuggling"
+            ],
+            "indicator removal on host" : [
+                "file deletion",
+                "timestomp",
+                "clear command history",
+                "clear windows event logs",
+                "clear linux or mac system logs"
+            ],
+            "modify registry" : [],
+            "template injection" : [],
+            "masquerading" : [
+                "invalid code signature",
+                "right to left override",
+                "rename system utilities",
+                "space after filename",
+                "double file extension"
+            ],
+            "hide artifacts" : [
+                "hidden shell"
+            ],
+            "execution guardrails" : [
+                "environmental keying"
+            ]
+        },
+        "credential access" : {
+            "adversary in the middle" : [
+                "arp cache poisoning",
+                "dhcp spoofing"
+            ],
+            "brute force" : [
+                "password guessing",
+                "password cracking",
+                "password spraying",
+                "credential stuffing",
+                "kerberoasting"
+            ],
+            "input capture" : [
+                "keylogging",
+                "gui input capture",
+                "web portal capture",
+                "credential api hooking",
+                "graphical user interface"
+            ],
+            "forge web credentials" : [
+                "web cookies",
+                "saml tokens"
+            ],
+            "os credential dumping" : [
+                "credential dumping"
+            ],
+            "inauthentic accounts" : [],
+            "network sniffing" : []
+        },
+        "discovery" : {
+            "system information discovery" : [],
+            "peripheral device discovery" : []
+        },
+        "lateral movement" : {
+            "remote services" : [
+                "vnc",
+                "ssh",
+                "remote desktop protocol",
+                "windows remote management",
+                "remote access tools"
+            ],
+            "alternate authentication material" : [
+                "application access token",
+                "pass the hash",
+                "pass the ticket",
+                "web session cookie"
+            ]
+        },
+        "collection" : {
+            "automated features" : [],
+            "windows media" : [],
+            "data from removable media" : [],
+            "screen capture" : [],
+            "automated collection" : [],
+            "data from information repositories" : [
+                "sharepoint"
+            ],
+            "input capture" : [
+                "hooking"
+            ],
+            "web data" : [],
+            "data scraping" : [],
+            "browser data" : [],
+            "clipboard data" : [],
+            "search history" : []         
+        },
+        "command and control" : {
+            "proxy" : [
+                "domain fronting",
+                "multi-hop proxy",
+                "external proxy",
+                "internal proxy"
+            ],
+            "remote software access" : [
+                "backdoor"
+            ],
+            "application layer protocol" : [
+                "web protocol",
+                "file transfer protocol",
+                "mail protocol",
+                "dns"
+            ],
+            "ingress tool transfer" : [],
+            "data encoding" : [
+                "standard encoding",
+                "non-standard encoding"
+            ],
+            "encrypted channel" : [
+                "symmetric cryptography",
+                "asymmetric cryptography"
+            ]
+        },
+        "exfiltration" : {
+            "exfiltration over c2 channel" : []
+        },
+        "impact" : {
+            "defacement" : [
+                "internal defacement",
+                "external defacement"
+            ]
+        }
+
+    },
+    "cyber_alias" : {
+        "apt1": [
+            "comment crew",
+            "comment group",
+            "comment panda"
+        ],
+        "apt10" : [
+            "cicada",
+            "potassium",
+            "stone panda",
+            "red apollo",
+            "cvnx",
+            "hogfish"
+        ],
+        "apt12": [
+            "ixeshe",
+            "dyncalc",
+            "numbered panda",
+            "dnscalc"
+        ],
+        "apt17": [
+            "deputy dog"
+        ],
+        "apt16" : [],
+        "apt18": [
+            "tg-0416",
+            "dynamite panda",
+            "threat group-0416"
+        ],
+        "apt19" : [
+            "codoso",
+            "codoso team",
+            "sunshop group"
+        ],
+        "apt28" : [
+            "fancy bear",
+            "tsar team",
+            "pawn storm",
+            "swallowtail",
+            "iron twilight",
+            "snakemackerel",
+            "group 74",
+            "sednit",
+            "strontium",
+            "sofacy"
+        ],
+        "apt31" : [
+            "zirconium"
+        ],
+        "apt34" : [
+            "oilrig",
+            "cobalt gypsy",
+            "irn2",
+            "helix kitten"
+        ],
+        "apt35" : [
+            "newscaster",
+            "phosphorus",
+            "itg18",
+            "charming kitten",
+            "cobalt illusion",
+            "ta453",
+            "magic hound"
+        ],
+        "apt27" : [
+            "iron tiger",
+            "luckymouse",
+            "bronze union",
+            "emissary panda",
+            "earth smilodon"
+        ],
+        "apt29" : [
+            "iron ritual",
+            "iron hemlock",
+            "noblebaron",
+            "darkhalo",
+            "stellerparticle",
+            "cozy bear",
+            "nobelium",
+            "cozyduke",
+            "the dukes",
+            "yttrium",
+            "unc2452"
+        ],
+        "apt38" : [
+            "nickel gladstone",
+            "beagleboyz",
+            "bluenoroff",
+            "stardust chollima"
+        ],
+        "apt15" : [
+            "ke3chang",
+            "mirage",
+            "vixen panda",
+            "gref",
+            "playful dragon",
+            "nickel"
+        ],
+        "apt3" : [
+            "pirpi",
+            "gothic panda",
+            "ups team",
+            "buckeye"
+        ],
+        "apt30" : [
+            "backspace",
+            "flashflood",
+            "neteagle",
+            "shipshape",
+            "spaceship"
+        ],
+        "apt32" : [
+            "sealotus",
+            "oceanlotus"
+        ],
+        "apt39" : [
+            "remix kitten",
+            "chafer",
+            "itg07"
+        ],
+        "apt40" : [
+            "circuit panda",
+            "leviathan",
+            "mudcarp",
+            "kryptonite panda",
+            "gadolinium",
+            "bronze mohawk"
+        ],
+        "apt41" : [
+            "wicked panda"
+        ],
+        "apt37" : [
+            "group123",
+            "inkysquid",
+            "scarcruft",
+            "reaper",
+            "temp.reaper",
+            "richochet chollima"
+        ],
+        "apt33" : [
+            "holmium",
+            "elfin"
+        ], 
+        "apt36" : [
+            "mythic leopard",
+            "projectm",
+            "copper fieldstone",
+            "transparent tribe"
+        ],
+        "evilcorp" : [
+            "evilcorp group",
+            "evil corp",
+            "indrik spider"
+        ],
+        "hive0065" : [
+            "ta505"
+        ],
+        "kimsuky" : [
+            "stolen pencil",
+            "thallium",
+            "black banshee",
+            "velvet",
+            "velvet chollima"
+        ],
+        "stealth falcon" : [
+            "operation stealth"
+        ],
+        "hafnium" : [
+            "operation exchange marauder"
+        ],
+        "turla" : [
+            "snake",
+            "group 88",
+            "iron hunter",
+            "whitebear",
+            "white bear",
+            "venomous bear",
+            "krypton"
+        ],      
+        "wizard spider" : [
+            "grim spider",
+            "unc1878",
+            "mallard spider",
+            "anthropoid spider"
+        ],
+        "fox kitten" : [
+            "unc757",
+            "pioneer kitten",
+            "parisite"
+        ],
+        "muddywater" : [
+            "earth vetala",
+            "mercury",
+            "static kitten",
+            "seedworm",   
+            "muddy water "                       
+        ],
+        "fin7" : [
+            "gold niagara",
+            "itg14",
+            "carbon spider"
+        ],
+        "fin10" : [],
+        "fin6" : [
+            "skeleton spider",
+            "itg08",
+            "magecard group 6"
+        ],
+        "cobalt group" : [
+            "cobalt spider",
+            "cobalt gang",
+            "gold kingswood"
+        ],
+        "equation" : [],
+        "lazarus group" : [         
+            "zinc",
+            "nickel academy",
+            "guardians of peace",
+            "hidden cobra",
+            "labyrinth chollima"
+        ],
+        "darkhotel" : [
+            "dubnium"
+        ],
+        "the white company" : [
+            "the white"
+        ],
+        "dragonfly" : [
+            "energetic bear",
+            "berserk bear",
+            "dymalloy",
+            "crouching yeti",
+            "iron liberty"           
+        ],   
+        "patchwork" : [
+            "hangover group",
+            "dropping elephant",
+            "chinastrats",
+            "operation hangover",
+            "monsoon"
+        ],
+        "mushtang panda" : [
+            "ta416",
+            "reddelta",
+            "red delta",
+            "bronze president"
+        ],
+        "group5" : [],
+        "bronze butler" : [
+            "redbaldknight",
+            "tick"
+        ],
+        "blacktech" : [
+            "palmerworm"
+        ],
+        "sidewinder" : [
+            "rattlesnake",
+            "t-apt-04"
+        ],
+        "andariel" : [
+            "silent chollima"
+        ],
+        "silence" : [
+            "whisper spider"
+        ],
+        "gorgon group" : [],
+        "winnti group" : [
+            "blackfly"
+        ],
+        "platinum" : [],
+        "windshift" : [
+            "bahamut"
+        ],
+        "tonto team" : [
+            "earth akhlut",
+            "bronze huntley",
+            "cactuspete",
+            "karma panda"
+        ],
+        "tropic trooper" : [
+            "pirate panda",
+            "keyboy"
+        ],
+        "higaisa" : [],
+        "strongpity" : [],
+        "carbanak" : [
+            "anunak"
+        ],
+        "sandworm team" : [
+            "electrum",
+            "telebots",
+            "iron viking",
+            "voodoo bear",
+            "quedagh",
+            "blackenergy"
+        ],
+        "gamaredon group" : [
+            "iron tilden",
+            "primitive bear",
+            "actinium",
+            "shuckworm",
+            "armageddon"
+        ],
+        "machete" : [
+            "el machete",
+            "apt-c-43"
+        ],
+        "sharpshooter" : []
+    },
+    "company" : {
+        "networking" : [
+            "cisco",
+            "rsa"
+        ],
+        "cybersecurity" : [
+            "fortinet",
+            "palo alto networks",
+            "zscaler",
+            "mcafee",
+            "logrhythm",
+            "sophos",
+            "trendmicro",
+            "sonicwall",
+            "rapid7",
+            "proofpoint",
+            "onetrust",
+            "knowbe4"
+        ],
+        "technology" : [
+            "ibm",
+            "microsoft",
+            "splunk",
+            "google",
+            "oracle",
+            "apple",
+            "adobe",
+            "darktrace",
+            "siemens"
+        ],
+        "aerospace" : [
+            "airbus"
+        ],
+        "social media" : [
+            "twitter",
+            "facebook"
+        ]
+    }
+}

@@ -1,81 +1,84 @@
-import random
-import spacy
-from spacy.training.example import Example
-from spacy.util import minibatch, compounding
-from Pattern_Matching import construct_entity_set
-from pathlib import Path
-save_dir = Path("D:\Computer Science\Masters\Dissertation\Project_Code\ThreatReport_Analysis\Model")
-# https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/
+import os
+import ntpath
+import spacy.util
+from extract_pdf_text import process_pdfs
+from Pattern_Matching import create_dataset
+from model_development import train_model
+from document_simularity import custom_similarity
+from Tree import json_to_tree
+
+# Extracts the filename from a given path
+def path_leaf(path):
+    head, tail = ntpath.split(path)
+    return tail or ntpath.basename(head)
 
 
-def train_ner(TRAIN_DATA):
-    print("Training NER model\n--------------------------------------------------------------------------\n")
-    nlp = spacy.load('en_core_web_sm')
-    pipe_exceptions = ["ner", "trf_wordpiecer", "trf_tok2vec"]
-    unaffected_pipes = [pipe for pipe in nlp.pipe_names if pipe not in pipe_exceptions]
-    with nlp.disable_pipes(*unaffected_pipes):
-        for iteration in range(30):
-            # shuffle the examples prior to training
-            random.shuffle(TRAIN_DATA)
-            losses = {}
-            # Batch up the examples using minibatch
-            batches = minibatch(TRAIN_DATA, size=compounding(4.0, 32.0, 1.001))
-            for batch in batches:
-                for text, annotations in batch:
-                    doc = nlp.make_doc(text)
-                    example = Example.from_dict(doc, annotations)
-                    nlp.update(
-                        [example],
-                        drop=0.4,   # dropout
-                        losses=losses
-                    )
-                    print("Losses: ", losses)
-    print("Training complete\n--------------------------------------------------------------------------\n")
-    print("Saving model\n--------------------------------------------------------------------------\n")
-    nlp.to_disk(save_dir)
-    print(f"Model saved to: {save_dir}\n--------------------------------------------------------------------------\n")
-
-
-def test_ner(TEST_DATA):
-    print("Testing NER\n--------------------------------------------------------------------------\n")
-    threshhold = 20
-    results = []
-    nlp_trained = spacy.load(save_dir)
-    for text in TEST_DATA:
-        doc = nlp_trained(text)
-        results.append(
-            [(ent.text, ent.label_, text[ent.start:ent.end]) for ent in doc.ents]
-        )
-    print("Testing complete\n--------------------------------------------------------------------------\n")
-    filename = "TestingResults.txt"
-    content = ""
-    for result in results:
-        if len(result) > 0:
-            for entity in result:
-                if len(entity) > 0:
-                    content += f"Entities:\nWord: {entity[0]}\nLabel: {entity[1]}\nSnippet: {entity[2]}\n\n"
-    with open(filename, "w") as file:
-        file.write(content)
-    print(f"Results saved to {filename}\n--------------------------------------------------------------------------\n")
-
-
-def display_options(TRAIN_DATA, TEST_DATA):
-    route = int(input("Enter 1 to train the model or 2 to test the currently trained model"))
-    if route == 1:
-        train_ner(TRAIN_DATA)
-    elif route == 2:
-        test_ner(TEST_DATA)
+# partitions the data and filenames list into the training and test set
+def partition_data(data, filenames):
+    len_data, len_files = len(data), len(filenames)
+    if len_data == len_files:
+        TRAIN_DATA = data[0:int(round(len_data - len_data / 4))]
+        TEST_DATA_RAW = data[(len_data - int(round(len_data / 4))):len_data]
+        TEST_DATA = [document[0] for document in TEST_DATA_RAW]
+        return TRAIN_DATA, TEST_DATA, filenames[0:int(round(len_data - len_data / 4))], \
+               filenames[(len_data - int(round(len_data / 4))):len_data]
     else:
-        display_options()
+        raise Exception("length of dataset does not match length of filenames")
 
 
+# Removes documents with no entities from the dataset and filenames list
+def filter_docs(docs, filenames):
+    i = 0
+    while i < len(docs):
+        if not len(docs[i].ents) > 0:
+            del docs[i]
+            del filenames[i]
+        i += 1
+    return docs, filenames
+
+
+# Retrieves the user input regarding which label they wish to filter by
+def get_user_label():
+    label = input("Enter a label to filter by\ncyber_alias, attack_technique or company\nIf neither enter a random character\n").lower()
+    if label == "company" or label == "cyber alias" or label == "attack technique":
+        return label
+    return None
+
+
+# Main entry point for the software
 def main():
-    data = construct_entity_set()
-    length = len(data)
-    TRAIN_DATA = data[0:int(round(length-length/4))]
-    TEST_DATA_RAW = data[(length-int(round(length/4))):length]
-    TEST_DATA = [document[0] for document in TEST_DATA_RAW]
-    display_options(TRAIN_DATA, TEST_DATA)
+    label = get_user_label()
+    documents = process_pdfs()
+    data, filenames = create_dataset(documents)
+    TRAIN_DATA, TEST_DATA, train_filenames, test_filenames = partition_data(data, filenames)
+    if not os.path.isdir("./Model"):
+        model = train_model(TRAIN_DATA)
+    else:
+        print("Loading model..........")
+        model = spacy.load("./Model")
+    test_docs = []
+    other_docs = []
+    print("Extracting entities from train data.......")
+    for doc in TRAIN_DATA:
+        other_docs.append(model(doc[0]))
+    print("Extracting entities from test documents.......")
+    for text in TEST_DATA:
+        test_docs.append(model(text))
+    print("Filtering documents from test set........")
+    test_docs, test_filenames = filter_docs(test_docs, test_filenames)
+    print("Filtering documents from train set........")
+    other_docs, other_filenames = filter_docs(other_docs, train_filenames)
+    print("Calculating percentages.......")
+    i = 0
+    sims = []
+    alias_tree = json_to_tree("cyber_alias", other_docs)
+    company_tree = json_to_tree("company", other_docs)
+    attack_tree = json_to_tree("attack_technique", other_docs)
+    for doc in test_docs:
+        sims.append(custom_similarity(other_docs, doc, other_filenames, test_filenames[i], alias_tree, company_tree, attack_tree, label))
+        i += 1
+    for sim in sims:
+        print(f"{path_leaf(sim[0])} most similar to: {path_leaf(sim[1])}. Score {sim[2]}%\n")
 
 
 if __name__ == '__main__':
